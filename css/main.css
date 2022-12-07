@@ -15,29 +15,21 @@ body {
   font-family: Vintii;
   color: #240046;
 }
-
-
-
-.header{
-  padding: 20px 10px;
-}
-.header a {
-  float: left;
-  color: black;
-  text-align: center;
-  padding: 12px;
-  text-decoration: none;
-  font-size: 30px;
-  line-height: 50px;
-  border-radius: 4px;
-}
-
-#logo {
+.top_menu_bar img{
   height: 100px;
   width: 100px;
 
 }
 
+.top_menu_bar a{
+  text-decoration-line: none;
+  color: darkslategray;
+  font-size: 24px;
+  padding: 20px;
+  float: left;
+  alignment: center;
+  text-align: center;
+}
 
 
 html {
